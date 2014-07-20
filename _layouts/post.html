@@ -2,13 +2,17 @@
 layout: default
 ---
 <article class="centered post">
-	<h1>
+	<h2>
 		{{ page.title }}
-	</h1>
-	<info datetime="{{ page.date | date: "%Y-%m-%d" }}">
+	</h2>
+	<time datetime="{{ page.date | date: "%Y-%m-%d" }}">
 		{{ page.date | date: "%b %d, %Y" }}
-	</info>
+	</time>
 	<div class="body">
 		{{ content }}
 	</div>
+	<hr />
+	<footer>
+		<a href="/">Home</a>
+	</footer>
 </article>
