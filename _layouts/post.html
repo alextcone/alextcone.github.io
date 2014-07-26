@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
-<article class="centered post">
+<article class="centered cf post">
 	<h2>
 		{{ page.title }}
 	</h2>
 	<time datetime="{{ page.date | date: "%Y-%m-%d" }}">
 		{{ page.date | date: "%b %d, %Y" }}
 	</time>
-	<div class="body">
+	<div class="cf">
 		{{ content }}
 	</div>
 	<hr />
-	<footer>
+	<footer class="cf">
 		<a href="/">Home</a>
 	</footer>
 </article>
