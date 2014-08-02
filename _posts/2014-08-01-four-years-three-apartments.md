@@ -21,7 +21,7 @@ About two and a half years in, Krista and I started the ball rolling with the ad
 
 One day during Christmas break, Krista and I casually set out to find a new apartment, fearing that we wouldn't be able to afford a two bedroom in the neighborhood that we loved. Perhaps unbelievably, we saw two that were nearby. On the way home from the second place we ran into an acquaintance from our street. She spun around in her tracks and said, "you guys still looking for an apartment?" Turns out the two bedroom in her family's building had just emptied. It seemed we were in the right place at the right time. Best part? It was two hundred yards down the street from the aforementioned first apartment.
 
-Fast forward a year and a half and our two sweet little girls (3 and 5) were just about to join us at home. Long story short, we had to move out of that second apartment abruptly. The move coincided with a previously scheduled trip to Texas, so we wouldn't have time to move our stuff. Remember that group of folks at church I mentioned earlier? They moved everything while we were gone, cleaning, painting and setting up our coziest home to date. 
+Fast forward a year and a half and our two sweet little girls were just about to join us at home. Long story short, we had to move out of that second apartment abruptly. The move coincided with a previously scheduled trip to Texas, so we wouldn't have time to move our stuff. Remember that group of folks at church I mentioned earlier? They moved everything while we were gone, cleaning, painting and setting up our coziest home to date. 
 
 <img src="http://i.imgur.com/lj9RI6i.gif" />
 
